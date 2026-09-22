@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <rect width="495" height="195" rx="6" fill="#0d1117"/>
+  <text x="25" y="35" fill="#58a6ff" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="16" font-weight="600">GitHub Stats</text>
+  <text x="25" y="70" fill="#e6edf3" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="28" font-weight="700">88</text>
+  <text x="25" y="90" fill="#8b949e" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12">Total Contributions*</text>
+  <text x="190" y="70" fill="#e6edf3" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="28" font-weight="700">17</text>
+  <text x="190" y="90" fill="#8b949e" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12">Total Repos</text>
+  <text x="340" y="70" fill="#e6edf3" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="28" font-weight="700">1</text>
+  <text x="340" y="90" fill="#8b949e" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12">Total Stars</text>
+  <text x="25" y="135" fill="#3fb950" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">@HenryCarm</text>
+  <text x="25" y="158" fill="#8b949e" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="11">0 followers · 0 forks · 100 recent events</text>
+  <text x="25" y="178" fill="#8b949e" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="10" opacity="0.7">*based on public event API (self-hosted card)</text>
+  <circle cx="455" cy="35" r="8" fill="#3fb950"/>
+  <path d="M451 35 l3 3 l6 -7" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

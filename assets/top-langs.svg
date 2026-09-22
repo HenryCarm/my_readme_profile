@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="155" viewBox="0 0 300 155">
+  <rect width="300" height="155" rx="6" fill="#0d1117"/>
+  <text x="20" y="32" fill="#58a6ff" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Most Used Languages</text>
+  
+  <text x="20" y="55" fill="#e6edf3" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="13">HTML</text>
+  <text x="245" y="55" fill="#8b949e" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12" text-anchor="end">54.0%</text>
+  <rect x="20" y="61" width="260" height="8" rx="4" fill="#21262d"/>
+  <rect x="20" y="61" width="86" height="8" rx="4" fill="#e34c26"/>
+  <text x="20" y="79" fill="#e6edf3" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="13">Python</text>
+  <text x="245" y="79" fill="#8b949e" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12" text-anchor="end">45.9%</text>
+  <rect x="20" y="85" width="260" height="8" rx="4" fill="#21262d"/>
+  <rect x="20" y="85" width="73" height="8" rx="4" fill="#3572A5"/>
+  <text x="20" y="103" fill="#e6edf3" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="13">JavaScript</text>
+  <text x="245" y="103" fill="#8b949e" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12" text-anchor="end">0.1%</text>
+  <rect x="20" y="109" width="260" height="8" rx="4" fill="#21262d"/>
+  <rect x="20" y="109" width="8" height="8" rx="4" fill="#f1e05a"/>
+</svg>
