@@ -1,9 +1,9 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 640 88'
+    viewBox='0 0 640 110'
     style='background-color: #0D111700;'
-    width='640px' height='88px'>
+    width='640px' height='110px'>
 
     <style>
 @font-face {
@@ -25,9 +25,7 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path0'>
-            visitor@github:~$ cat profile.sh | bash
-        </textPath>
+        <textPath xlink:href='#path0'>visitor@github:~$ cat profile.sh | bash</textPath>
     </text>
         <path id='path1'>
                             <!-- Multiline -->
@@ -39,9 +37,7 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path1'>
-            Python · Apps &amp; Scripts · Games
-        </textPath>
+        <textPath xlink:href='#path1'>Python · Apps &amp; Scripts · Games</textPath>
     </text>
         <path id='path2'>
                             <!-- Multiline -->
@@ -53,8 +49,6 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path2'>
-            Linux Tinkerer · HenryCarm 🐱
-        </textPath>
+        <textPath xlink:href='#path2'>Linux Tinkerer · HenryCarm</textPath>
     </text>
 </svg>
